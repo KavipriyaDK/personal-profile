@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: personal-profile
-        image: kavipriya1928/personal-profile:v1
+        image: kavipriya1928/personal-profile:v2
         ports:
         - containerPort: 80
 ---
